@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
-                "mode": "source",
+                "file": "source/docs/showcase.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "showcase"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "40724fadd95cab81",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/docs/showcase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a index"
+              "title": "Riferimenti a showcase"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/docs/showcase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da index"
+              "title": "Collegamenti in uscita da showcase"
             }
           },
           {
@@ -195,15 +195,21 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "3798565b8618b414",
+  "active": "68f4369a4de0d11a",
   "lastOpenFiles": [
+    "source/docs/setting up your GitHub repository.md",
+    "source/docs/philosophy.md",
+    "source/docs/migrating from Quartz 3.md",
+    "source/docs/features/backlinks.md",
+    "source/docs/advanced/architecture.md",
+    "source/docs/advanced/making plugins.md",
+    "source/docs/advanced/index.md",
     "source/content/category-folder/index.md",
     "source/content/category-folder/Some note.md",
-    "source/content/index.md",
     "README.md",
+    "source/content/index.md",
     "virzi.jpg",
     "Senza nome.canvas",
-    "source/docs/migrating from Quartz 3.md",
     "source/docs/configuration.md",
     "source/README.md",
     "package-lock.json"
