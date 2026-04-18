@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/category-folder/index.md",
                 "mode": "preview",
                 "source": false
               },
@@ -195,12 +195,12 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "8812a55c514fbc49",
+  "active": "68f4369a4de0d11a",
   "lastOpenFiles": [
+    "source/content/index.md",
     "source/content/category-folder/Some note.md",
     "source/content/category-folder/index.md",
     "source/README.md",
-    "source/content/index.md",
     "README.md",
     "source/docs/showcase.md",
     "source/docs/setting up your GitHub repository.md",
