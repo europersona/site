@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/docs/showcase.md",
+                "file": "source/content/index.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "showcase"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "40724fadd95cab81",
@@ -197,6 +198,8 @@
   },
   "active": "68f4369a4de0d11a",
   "lastOpenFiles": [
+    "README.md",
+    "source/docs/showcase.md",
     "source/docs/setting up your GitHub repository.md",
     "source/docs/philosophy.md",
     "source/docs/migrating from Quartz 3.md",
@@ -206,7 +209,6 @@
     "source/docs/advanced/index.md",
     "source/content/category-folder/index.md",
     "source/content/category-folder/Some note.md",
-    "README.md",
     "source/content/index.md",
     "virzi.jpg",
     "Senza nome.canvas",
