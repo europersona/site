@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/category-folder/index.md",
-                "mode": "source",
+                "file": "README.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "README"
             }
           }
         ]
@@ -197,9 +197,9 @@
   },
   "active": "68f4369a4de0d11a",
   "lastOpenFiles": [
+    "source/content/category-folder/index.md",
     "source/content/index.md",
     "source/content/category-folder/Some note.md",
-    "source/content/category-folder/index.md",
     "source/README.md",
     "README.md",
     "source/docs/showcase.md",
